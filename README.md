@@ -78,5 +78,3 @@ A clean, floating interface designed for usability and streaming safety.
 
 ### 🔹 Status Indicator
 Displays the currently spectated player in real time.
-
-Example:
