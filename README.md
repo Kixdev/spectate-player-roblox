@@ -1,6 +1,6 @@
 # 👁️ Roblox Spectate Player System (Client-Side)
 
-> **Educational Purposes Only – Open Source UI & Camera Control Reference**
+> **Educational Purposes Only - Open Source UI & Camera Control Reference**
 
 ---
 
